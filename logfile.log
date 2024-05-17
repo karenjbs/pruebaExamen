@@ -1,0 +1,10 @@
+[2024-05-16 23:40:27] [ INFO ] [ClienteDaoH2:56] Table "CLIENTES" not found (this database is empty); SQL statement:
+INSERT INTO CLIENTES VALUES (DEFAULT, ?, ?, ?, ?, ?) [42104-224]
+[2024-05-16 23:42:42] [ INFO ] [ClienteDaoH2:42] El cliente es: Clientesid=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:44:38] [ INFO ] [ClienteDaoH2:42] El cliente es: Clientes id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:45:03] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:45:54] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:46:45] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:47:42] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:48:06] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
+[2024-05-16 23:48:12] [ INFO ] [ClienteDaoH2:42] El cliente es: id=3, codigo=6584, nombre='LISSA', apellido='SIMPSON', banco=12, saldo=2500
